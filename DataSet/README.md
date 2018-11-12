@@ -1,14 +1,12 @@
 # DataSet
 
-**********DATASET INFO**********
+**Format:** csv/json
 
---> Format: csv/json
+**Total Fields:** 12
 
---> Total Fields: 12
+**Total Records:** 1000
 
---> Total Records: 1000
-
---> Dataset Content:
+**Dataset Content:**
 This dataset has following fields:
 1. ID
 2. Name
