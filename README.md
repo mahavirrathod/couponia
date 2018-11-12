@@ -12,28 +12,28 @@ Couponia provide deals for Smart Shopping with aim to help users in saving money
 
 Features that will be delivered:
 
-Search for Coupons on Listing Page.
-Sign Up to get access for premium coupons.
-Best Ofer and Top Brands based on highest reviews and top ofers like 90% discount, Free ofers, etc.
-Multiple Views: Grid and List views of Coupons
-Filter Coupons on diferent parameters:
-- Coupon Category ( Entertainment, Fashion, etc.)
-- Coupon Types (Cashback, % discount, etc.)
+- Search for Coupons on Listing Page.
+- Sign Up to get access for premium coupons.
+- Best Ofer and Top Brands based on highest reviews and top ofers like 90% discount, Free ofers, etc.
+- Multiple Views: Grid and List views of Coupons
+- Filter Coupons on diferent parameters:
+    - Coupon Category ( Entertainment, Fashion, etc.)
+    - Coupon Types (Cashback, % discount, etc.)
 - Blog posts and flter posts based on categories
-Couponia Facts based on Number of coupons with respect to categories
-Sort products on diferent parameters:
-- Default(by product name)
-- Rating
-Admin Operations:
-- View Graph of number of coupons used
-- Add new Coupon
-- Remove coupon
-- Write Blog Post
-- View Subscribed users email Id’s with pagination
-Subscription:
-- Users can subscribe by entering their Email Id
+- Couponia Facts based on Number of coupons with respect to categories
+- Sort products on diferent parameters:
+    - Default(by product name)
+    - Rating
+- Admin Operations:
+    - View Graph of number of coupons used
+    - Add new Coupon
+    - Remove coupon
+    - Write Blog Post
+    - View Subscribed users email Id’s with pagination
+- Subscription:
+    - Users can subscribe by entering their Email Id
 
 Features that will be included later:-
 
-Feature of bookmarking your favourite Coupons.
-Expanding dataset with more categories.
+- Feature of bookmarking your favourite Coupons.
+- Expanding dataset with more categories.
