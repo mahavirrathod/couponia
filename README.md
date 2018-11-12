@@ -1,8 +1,8 @@
-Couponia
+# Couponia
 
-This is an application for coupon listing search and discovery using MEAN Stack (Mongo, ExpressJs, Angular4, NodeJs).
+**This is an application for coupon listing search and discovery using MEAN Stack (Mongo, ExpressJs, Angular4, NodeJs).**
 
-Product Description:
+**Product Description:**
 
 Couponia provide deals for Smart Shopping with aim to help users in saving money through various coupons, offers, deals and discounts. Providing coupons on various categories such as Food & Dinning, Fashion, Recharge, Beauty & Health, Mobile & Tablets, etc.
 
@@ -10,7 +10,7 @@ Couponia provide deals for Smart Shopping with aim to help users in saving money
 - Providing various features to enhance user interaction such as Searching,  Sorting, Filtering, easy to use Navigation, Interesting visual Facts and Figures, Blogs and User Login.
 - Providing features for Admin operations such as admin login, add coupon, remove coupon, write blogs and Visual charts.
 
-Features that will be delivered:
+**Features that will be delivered:**
 
 - Search for Coupons on Listing Page.
 - Sign Up to get access for premium coupons.
@@ -33,7 +33,7 @@ Features that will be delivered:
 - Subscription:
     - Users can subscribe by entering their Email Id
 
-Features that will be included later:-
+**Features that will be included later:**
 
 - Feature of bookmarking your favourite Coupons.
 - Expanding dataset with more categories.
