@@ -37,3 +37,10 @@ Features that will be included later:-
 
 - Feature of bookmarking your favourite Coupons.
 - Expanding dataset with more categories.
+- Admin Update Coupon.
+- Location based Coupon Suggestion.
+- Auto Coupon delete when date Expires
+- Coupon Recommendation.
+- Refer and Earn Feature.
+- Coupon Reviews and Comments
+- Shopping Assistant Extension to Browser
